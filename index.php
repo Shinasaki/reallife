@@ -3,7 +3,7 @@
     <head>
 
         <!--
-        // Minecraft Reallife Landing
+        // Minecraft Reallife Homepage
         // Create By Peaches
         // 2-9-2017
         /-->
@@ -13,8 +13,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Peaches">
         <meta name="keywords" content="Minecraft,Reallife">
-        <meta name="description" content="Minecraft Reallife Landing">
-        <title>Reallife Landing</title> <!-- สามารถเปลี่ยนtitleเว็บได้ที่นี่ -->
+        <meta name="description" content="Minecraft Reallife Homepage">
+        <title>Reallife Homepage</title> <!-- สามารถเปลี่ยนtitleเว็บได้ที่นี่ -->
 
 
         <!-- Css -->
@@ -59,9 +59,9 @@
 
             <!-- Button -->
             <div class="button">
-                <span><a href="http://reallifess4.com/MC-Reallife/member.php?page=register/">Register</a></span>
-                <span><a href="http://reallifess4.com/MC-Reallife/page.php?id=download/">Download</a></span>
-                <span><a href="http://reallifess4.com/MC-Reallife/">EnterSite</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife/member.php?page=register">Register</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife/page.php?id=download">Download</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife">EnterSite</a></span>
             </div>
 
 
