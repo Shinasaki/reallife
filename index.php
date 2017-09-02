@@ -59,9 +59,9 @@
 
             <!-- Button -->
             <div class="button">
-                <span><a href="http://reallifess4.com/MC-Reallife/">Register</a></span>
-                <span><a href="http://reallifess4.com/MC-Reallife/member.php?page=register">Download</a></span>
-                <span><a href="http://reallifess4.com/MC-Reallife/page.php?id=download">EnterSite</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife/member.php?page=register/">Register</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife/page.php?id=download/">Download</a></span>
+                <span><a href="http://reallifess4.com/MC-Reallife/">EnterSite</a></span>
             </div>
 
 
