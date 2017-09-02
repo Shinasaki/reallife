@@ -52,7 +52,7 @@
 
             <!-- Title -->
             <div class="title">
-                <div class="glitch title-text" data-text="REALLIFE SS5">REALLIFE <b style="color: #ff5050;">SS5</b></div>
+                <div class="glitch title-text" data-text="REALLIFE SS4">REALLIFE <b style="color: #ff5050;">SS4</b></div>
                 <span>Best AramaIII Minecraft Server</span>
             </div>
 
