@@ -14,7 +14,7 @@
         <meta name="author" content="Peaches">
         <meta name="keywords" content="Minecraft,Reallife">
         <meta name="description" content="Minecraft Reallife Homepage">
-        <title>Reallife Homepage</title> <!-- สามารถเปลี่ยนtitleเว็บได้ที่นี่ -->
+        <title>Onepiece Homepage</title> <!-- สามารถเปลี่ยนtitleเว็บได้ที่นี่ -->
 
 
         <!-- Css -->
@@ -52,8 +52,8 @@
 
             <!-- Title -->
             <div class="title">
-                <div class="glitch title-text" data-text="REALLIFE SS4">REALLIFE <b style="color: #ff5050;">SS4</b></div>
-                <span>Best AramaIII Minecraft Server</span>
+                <div class="glitch title-text" data-text="MC Onepiece">MC Onepiece</div>
+                <span>Best Onepiece Minecraft Server</span>
             </div>
 
 
